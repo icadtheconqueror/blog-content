@@ -1,0 +1,23 @@
+body {
+    background-image: url('../assets/img/bekgron.gif');
+    background-repeat: repeat;
+    background-color: rgba(255,255,255,0.6);
+    background-blend-mode: lighten;
+}
+
+.content {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.content-ul li {
+    margin-bottom: 0.3rem;
+}
+
+footer .font {
+    color: white;
+}
+
+.card-btn:hover{
+    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
