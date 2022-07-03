@@ -1,1 +1,1 @@
-# Simple Blog Content Interface using Boostrap 5
+# Simple Blog Content Interface using Bootstrap 5
